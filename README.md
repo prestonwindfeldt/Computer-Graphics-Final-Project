@@ -1,12 +1,6 @@
 # Final Project
 
 ***This repo only includes the necessary textures and the Unix Executable File in order to view the project. The original code is not included.***
-## Run
-```
-git clone https://github.com/prestonwindfeldt/Computer-Graphics-Final-Project.git
-cd Computer-Graphics-Final-Project
-./final
-```
 
 Preston Windfeldt
 CSCI4229/5229 Summer 2022
@@ -16,6 +10,13 @@ Functions from class examples utilized:
 triangleNormal (ex13.c), cube (ex15.c), coin (ex19.c), stud (ex16.c),
 vertex (ex13.c), ball (ex13.c), and Sky (ex24.c).
 display, idle, specail, key, reshape, and main functions are all adapted from class examples.
+
+## Run
+```
+git clone https://github.com/prestonwindfeldt/Computer-Graphics-Final-Project.git
+cd Computer-Graphics-Final-Project
+./final
+```
 
 ## Key bindings
 ```
@@ -41,5 +42,6 @@ display, idle, specail, key, reshape, and main functions are all adapted from cl
   0          Reset view angle
   ESC        Exit
 ```
+
 
 
