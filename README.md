@@ -17,7 +17,7 @@ triangleNormal (ex13.c), cube (ex15.c), coin (ex19.c), stud (ex16.c),
 vertex (ex13.c), ball (ex13.c), and Sky (ex24.c).
 display, idle, specail, key, reshape, and main functions are all adapted from class examples.
 
-Key bindings
+```Key bindings
   g          Toggle between different views of the scene
   arrows     Change view angle
   t          Toggle axes
@@ -38,4 +38,5 @@ Key bindings
   F2         Toggle local viewer
   F3         Toggle light distance
   0          Reset view angle
-  ESC        Exit
+  ESC        Exit```
+
